@@ -1,0 +1,8 @@
+{
+  "Group": "Snipr",
+  "Name": "MegaPerformance",
+  "Version": "1.0.0",
+  "Main": "com.snipr.megaperformance.MegaPerformancePlugin",
+  "Description": "Performance-focused drop-in tweaks for Hytale servers",
+  "IncludesAssetPack": false
+}
