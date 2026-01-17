@@ -1,3 +1,7 @@
+## Join the Discord!
+
+[Epic Discord Server with updates](https://discord.gg/7Tzqrbsdyp)
+
 # MegaPerformance Plugin
 
 Performance-focused drop-in tweaks for Hytale servers (2026.01.09-49e5904). Conservative defaults; minimal gameplay impact.
@@ -35,4 +39,5 @@ Performance-focused drop-in tweaks for Hytale servers (2026.01.09-49e5904). Cons
 
 
 ## Looking for quality hosting?
+
 [![Kinetic Hosting - Hytale Server Hosting](https://i.ibb.co/5XFkWtyy/KH-Curse-Forge-Final-Wide-Banner-Hytale-Small.png)](https://billing.kinetichosting.com/aff.php?aff=1251)
